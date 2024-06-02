@@ -10,8 +10,8 @@ g++ -fmodules-ts -x c++-system-header iostream
 ```
 
 If you see this folder, everything worked!
-![image_of_folder](images/image_of_folder.png)
 
+![image_of_folder](images/image_of_folder.png)
 
 
 Now, you can use the code here! Just run:
