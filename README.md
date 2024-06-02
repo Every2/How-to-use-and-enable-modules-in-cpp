@@ -1,4 +1,4 @@
-# How-to-use-enables-in-cpp
+# Modules in C++
 
 I'm usign G++ 13 on OpenSuse, this's my version. Make sure you've the same version or above.
 
